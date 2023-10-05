@@ -1,0 +1,15 @@
+.dCont{
+    margin: auto !important;
+
+}
+
+input[type="button"]{
+    width: 30vh;
+    border: none;
+    border-radius: 20px;
+
+    color: white;
+    font-size: 20px;
+    
+    
+}
