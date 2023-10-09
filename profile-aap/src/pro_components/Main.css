@@ -3,6 +3,7 @@
 
 }
 
+/* 
 input[type="button"]{
     width: 30vh;
     border: none;
@@ -10,6 +11,9 @@ input[type="button"]{
 
     color: white;
     font-size: 20px;
-    
-    
+
+} */
+
+edtbtn:hover{
+    background-color: brown;
 }
