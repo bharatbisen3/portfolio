@@ -43,7 +43,7 @@ function Myhome() {
                         </div>
 
                         <div className="my-5">
-                            <a href="./resume" class="btn btn-info rounded-pill "> Download CV </a>
+                            <a href="./resume" class="btn btn-info rounded-pill shadow p-3 mb-5 rounded "> Download CV </a>
 
                         </div>
 
