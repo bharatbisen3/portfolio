@@ -1,3 +1,4 @@
+import './Main.css';
 import photo4 from './photo4.jpg';
 
 function About() {
@@ -24,7 +25,7 @@ function About() {
                         
                         </div>
                         <div className="my-5">
-                            <a href="./resume" class="btn btn-info rounded-pill "> Read More </a>
+                            <a href="./Portfolio" id='cvbtn' class="btn btn-info rounded-pill "> Read More </a>
 
                         </div>
                     </div>

@@ -43,8 +43,8 @@ function Myhome() {
 
                         </div>
 
-                        <div className="my-5">
-                            <a href="./resume" class="edtbtn btn btn-info rounded-pill shadow-lg p-3  mb-5 rounded "> Download CV </a>
+                        <div className=" my-5">
+                            <a href="./About" id='cvbtn' className="edtbtn btn btn-info rounded-pill  shadow-lg"> Download CV </a>
 
                         </div>
 

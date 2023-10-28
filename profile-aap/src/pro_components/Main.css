@@ -14,6 +14,6 @@ input[type="button"]{
 
 } */
 
-edtbtn:hover{
-    background-color: brown;
+#cvbtn:hover{
+    background-image: linear-gradient(to right, red , yellow);
 }
