@@ -7,7 +7,7 @@ function Contact() {
             <div className="container ">
                 <div className=" dCont mt-2 p-5 w-75 bg-dark text-white " >
 
-                    <form>
+                    <form action="https://formsubmit.co/9612c6e04eb36db67848e1fdac4ed702" method="POST">
 
                         <h1 className="text-center"> Contact <span className="text-info"> Me </span> </h1>
 
@@ -76,7 +76,7 @@ function Contact() {
                                     <label for="rmail"> Email Subject </label>
                                 </div>
                                 <div className="col">
-                                    <input type="email" name="rmail" placeholder="Subject" />
+                                    <input type="text" name="rmail" placeholder="Subject" />
 
                                 </div>
 
@@ -104,7 +104,9 @@ function Contact() {
 
                                 <div className="col pt-2 ">
 
-                                    <input type="button" value="Submit" className=" bg-info text-dark p-1" />
+                                    {/* <input type="button" value="Submit" className=" bg-info text-dark p-1" /> */}
+
+                                    <button type='submit' className='bg-info text-dark p-2 border-0 rounded-pill'>Submit</button>
 
                                 </div>
 
